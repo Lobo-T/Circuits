@@ -1,0 +1,33 @@
+Partlist exported from C:/Users/Trond/Documents/eagle/Locoshield Rsync power/LocoShield-TMH.sch at 22.10.2016 22:28
+
+Part   Value                 Device                Package          Description                                         ELFA       MF MPN              OC_FARNELL OC_NEWARK TP_SIGNAL_NAME
+C1                           CPOL-EUE2-5           E2-5             POLARIZED CAPACITOR, European symbol                                                                                  
+D1     ES1A                  DIODESMA              SMADIODE         Diode                                               170-00-843                                                        
+D2     ES1A                  DIODESMA              SMADIODE         Diode                                               170-00-843                                                        
+IC1    LM393M                LM393M                SO08@1                                                               73-291-96                                                         
+IC2    LM317                 LM317LD               SO08             LOW CURRENT 1.2 TO 37V ADJUSTABLE VOLTAGE REGULATOR 73-131-69                                                         
+J2     RJ12                  520250-3              520250-3         AMP connector                                       42-688-27                                                         
+J3     RJ12                  520250-3              520250-3         AMP connector                                       42-688-27                                                         
+JP1                          JUMPER-2PTH_LOCK      1X02_LOCK        Jumper                                              124-50-887                                                        
+JP2                          JUMPER-2PTH_LOCK      1X02_LOCK        Jumper                                              124-50-887                                                        
+JP3    LN-TERM               JUMPER-2PTH_LOCK      1X02_LOCK        Jumper                                              124-50-887                                                        
+LED1                         LED0805-LED           0805-LED                                                             75-308-68                                                         
+Q1     2N3904                NPN-SOT23-3           SOT23-3          Transistor NPN                                      300-50-414                                                        
+R1     470R                  R0805-RES             0805-RES         Resistor                                            60-255-17                                                         
+R2     1k                    R0805-RES             0805-RES         Resistor                                            60-255-21                                                         
+R3     27k                   R0805-RES             0805-RES         Resistor                                            60-255-48                                                         
+R4     39k                   R0805-RES             0805-RES         Resistor                                            60-255-50                                                         
+R5     240k                  R0805-RES             0805-RES         Resistor                                            60-180-63                                                         
+R6     150k                  R0805-RES             0805-RES         Resistor                                            60-255-57                                                         
+R7     47k                   R0805-RES             0805-RES         Resistor                                            60-255-51                                                         
+R8     47R                   R0805-RES             0805-RES         Resistor                                            60-255-04                                                         
+R9     4k7                   R0805-RES             0805-RES         Resistor                                            60-255-39                                                         
+R10    82R                   R0805-RES             0805-RES         Resistor                                            60-255-07                                                         
+R11    4,7                   R-EU_R1206            R1206            RESISTOR, European symbol                           160-98-710                                                        
+SHIELD ARDUINO_SHIELDNO_SILK ARDUINO_SHIELDNO_SILK DUEMILANOVE_VIAS                                                                                                                       
+SJ1    SOLDERJUMPERTRACE     SOLDERJUMPERTRACE     SJ_2S-TRACE      Solder Jumper                                                                                                         
+SJ2    SOLDERJUMPERTRACE     SOLDERJUMPERTRACE     SJ_2S-TRACE      Solder Jumper                                                                                                         
+SV1                          MA05-1                MA05-1           PIN HEADER                                          143-00-499                     unknown    unknown                 
+TP1    TPPAD1-17             TPPAD1-17             P1-17            Test pad                                                                                                              
+TP2    TPPAD1-17             TPPAD1-17             P1-17            Test pad                                                                                                              
+X1     MKDSN1,5/4-5,08       MKDSN1,5/4-5,08       MKDSN1,5/4-5,08  MKDSN 1,5/ 4-5,08 Printklemme                                     SMKDSN1,5/4-5,08 1792905    70R0300                 

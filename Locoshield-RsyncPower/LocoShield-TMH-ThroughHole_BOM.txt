@@ -1,0 +1,34 @@
+Partlist exported from C:/Users/Trond/Documents/eagle/Locoshield Rsync power/LocoShield-TMH-ThroughHole.sch at 22.10.2016 22:28
+
+Part   Value                 Device                Package          Description                          ELFA       MF MPN OC_FARNELL OC_NEWARK TP_SIGNAL_NAME
+C1                           CPOL-EUE2-5           E2-5             POLARIZED CAPACITOR, European symbol                                                      
+D1     UF4004                1N4148DO35-7          DO35-7           DIODE                                170-02-221                                           
+D2     UF4004                1N4148DO35-7          DO35-7           DIODE                                170-02-221                                           
+IC1    LM393N                LM393N                DIL08            COMPARATOR                           300-19-446                                           
+IC2    LM317LZ               LM317LZ               TO92             Positive VOLTAGE REGULATOR           173-12-085                                           
+J2     RJ12                  520250-3              520250-3         AMP connector                        42-688-27                                            
+J3     RJ12                  520250-3              520250-3         AMP connector                        42-688-27                                            
+JP1                          JUMPER-2PTH_LOCK      1X02_LOCK        Jumper                               124-50-887                                           
+JP2                          JUMPER-2PTH_LOCK      1X02_LOCK        Jumper                               124-50-887                                           
+JP3    LN-TERM               JUMPER-2PTH_LOCK      1X02_LOCK        Jumper                               124-50-887                                           
+LED1                         LED3MM                LED3MM           LED                                  175-01-530                                           
+Q1     2N3904                2N3904                TO92             NPN TRANSISTOR                       171-30-038                                           
+R1     470R                  R-EU_0207/10          0207/10          RESISTOR, European symbol            160-59-206                                           
+R2     1k                    R-EU_0207/10          0207/10          RESISTOR, European symbol            160-59-214                                           
+R3     27k                   R-EU_0207/10          0207/10          RESISTOR, European symbol            160-59-253                                           
+R4     39k                   R-EU_0207/10          0207/10          RESISTOR, European symbol            160-59-257                                           
+R5     240k                  R-EU_0207/10          0207/10          RESISTOR, European symbol            160-59-277                                           
+R6     150k                  R-EU_0207/10          0207/10          RESISTOR, European symbol            160-59-271                                           
+R7     47k                   R-EU_0207/10          0207/10          RESISTOR, European symbol            160-59-259                                           
+R8     47R                   R-EU_0207/10          0207/10          RESISTOR, European symbol            160-59-181                                           
+R9     4k7                   R-EU_0207/10          0207/10          RESISTOR, European symbol            160-73-043                                           
+R10    82R                   R-EU_0207/10          0207/10          RESISTOR, European symbol            160-59-187                                           
+R11    4,7                   R-EU_0207/10          0207/10          RESISTOR, European symbol            160-59-157                                           
+SHIELD ARDUINO_SHIELDNO_SILK ARDUINO_SHIELDNO_SILK DUEMILANOVE_VIAS                                                                                           
+SJ1    SOLDERJUMPERTRACE     SOLDERJUMPERTRACE     SJ_2S-TRACE      Solder Jumper                                                                             
+SJ2    SOLDERJUMPERTRACE     SOLDERJUMPERTRACE     SJ_2S-TRACE      Solder Jumper                                                                             
+SV1                          MA05-1                MA05-1           PIN HEADER                           143-00-499        unknown    unknown                 
+TP1    TPPAD1-17             TPPAD1-17             P1-17            Test pad                                                                                  
+TP2    TPPAD1-17             TPPAD1-17             P1-17            Test pad                                                                                  
+X1     MKDSN1,5/2-5,08       MKDSN1,5/2-5,08       MKDSN1,5/2-5,08  MKDSN 1,5/ 2-5,08 Printklemme        148-45-038                                           
+X2     MKDSN1,5/2-5,08       MKDSN1,5/2-5,08       MKDSN1,5/2-5,08  MKDSN 1,5/ 2-5,08 Printklemme        148-45-038                                           
