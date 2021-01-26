@@ -116,7 +116,7 @@
 <pad name="38" x="8.89" y="19.05" drill="1"/>
 <pad name="39" x="8.89" y="21.59" drill="1"/>
 <pad name="40" x="8.89" y="24.13" drill="1"/>
-<text x="-11.684" y="-28.067" size="1.778" layer="25">&gt;NAME</text>
+<text x="-10.414" y="-28.067" size="1.778" layer="25">&gt;NAME</text>
 <text x="1.016" y="-20.955" size="1.778" layer="27" rot="R90">&gt;VALUE</text>
 <smd name="P$1" x="-10" y="24.13" dx="3.5" dy="1.7" layer="1"/>
 <smd name="P$2" x="-10" y="21.59" dx="3.5" dy="1.7" layer="1"/>
@@ -287,7 +287,7 @@
 <wire x1="-10.5" y1="24.47" x2="-10.5" y2="-27.01" width="0.1524" layer="21"/>
 <wire x1="10.5" y1="-27.01" x2="-10.5" y2="-27.01" width="0.1524" layer="21"/>
 <wire x1="-10.5" y1="24.47" x2="10.5" y2="24.47" width="0.1524" layer="21"/>
-<text x="-11.684" y="-29.337" size="1.778" layer="25">&gt;NAME</text>
+<text x="-10.414" y="-29.337" size="1.778" layer="25">&gt;NAME</text>
 <text x="1.016" y="-22.225" size="1.778" layer="27" rot="R90">&gt;VALUE</text>
 <smd name="P$1" x="-10" y="22.86" dx="3.5" dy="1.7" layer="1"/>
 <smd name="P$2" x="-10" y="20.32" dx="3.5" dy="1.7" layer="1"/>
